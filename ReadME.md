@@ -8,7 +8,7 @@ To get started with this bot, follow the steps below:
 
 ### Prerequisites
 - Python 3.6 or later
-- Aiogram library
+- Aiogram library (2.25 version)
 - Wikipedia API library
 
 ### Installation
